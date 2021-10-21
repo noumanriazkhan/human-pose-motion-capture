@@ -1,0 +1,28 @@
+[I 14:44:14.354 NotebookApp] [nb_conda_kernels] enabled, 3 kernels found
+[I 14:44:15.460 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 14:44:15.498 NotebookApp] JupyterLab extension loaded from /home/ubuntu/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 14:44:15.498 NotebookApp] JupyterLab application directory is /home/ubuntu/anaconda3/share/jupyter/lab
+[I 14:44:15.500 NotebookApp] Serving notebooks from local directory: /home/ubuntu/inzamam
+[I 14:44:15.500 NotebookApp] The Jupyter Notebook is running at:
+[I 14:44:15.500 NotebookApp] http://localhost:8888/
+[I 14:44:15.500 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 14:44:15.504 NotebookApp] No web browser found: could not locate runnable browser.
+[I 14:45:21.637 NotebookApp] [nb_conda_kernels] enabled, 3 kernels found
+[I 14:45:22.625 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 14:45:22.651 NotebookApp] JupyterLab extension loaded from /home/ubuntu/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 14:45:22.651 NotebookApp] JupyterLab application directory is /home/ubuntu/anaconda3/share/jupyter/lab
+[I 14:45:22.653 NotebookApp] Serving notebooks from local directory: /home/ubuntu/inzamam
+[I 14:45:22.653 NotebookApp] The Jupyter Notebook is running at:
+[I 14:45:22.653 NotebookApp] http://localhost:8889/
+[I 14:45:22.653 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 14:45:22.656 NotebookApp] No web browser found: could not locate runnable browser.
+[I 14:45:28.363 NotebookApp] 302 GET / (127.0.0.1) 0.57ms
+[W 14:45:28.534 NotebookApp] Clearing invalid/expired login cookie username-localhost-8889
+[W 14:45:28.535 NotebookApp] Clearing invalid/expired login cookie username-localhost-8889
+[I 14:45:28.535 NotebookApp] 302 GET /tree? (127.0.0.1) 1.70ms
+[W 14:45:33.949 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.40ms referer=http://localhost:8889/login?next=%2Ftree%3F
+[W 14:45:36.916 NotebookApp] Not allowing login redirect to '/tree?'
+[I 14:45:36.916 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 1.31ms
+[I 14:45:37.092 NotebookApp] 302 GET / (127.0.0.1) 0.43ms
+[I 14:46:06.448 NotebookApp] Shutting down on /api/shutdown request.
+[I 14:46:06.449 NotebookApp] Shutting down 0 kernels
